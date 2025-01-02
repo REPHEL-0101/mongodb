@@ -1,0 +1,12 @@
+[
+  { "_id": 1, "name": "Laptop", "price": 1200, "quantity": 15 },
+  { "_id": 2, "name": "Smartphone", "price": 800, "quantity": 25 },
+  { "_id": 3, "name": "Tablet", "price": 500, "quantity": 10 },
+  { "_id": 4, "name": "Headphones", "price": 150, "quantity": 30 },
+  { "_id": 5, "name": "Smartwatch", "price": 300, "quantity": 20 },
+  { "_id": 6, "name": "Desktop", "price": 1500, "quantity": 5 },
+  { "_id": 7, "name": "Keyboard", "price": 50, "quantity": 40 },
+  { "_id": 8, "name": "Mouse", "price": 30, "quantity": 50 },
+  { "_id": 9, "name": "Speaker", "price": 200, "quantity": 15 },
+  { "_id": 10, "name": "Monitor", "price": 400, "quantity": 10 }
+]

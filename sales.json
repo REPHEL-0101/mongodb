@@ -1,0 +1,5 @@
+[    { "_id": 1, "item": "apple", "price": 1.5, "quantity": 10, "date": "2023-01-01" },
+  { "_id": 2, "item": "banana", "price": 1.0, "quantity": 5, "date": "2023-01-02" },
+  { "_id": 3, "item": "orange", "price": 1.2, "quantity": 8, "date": "2023-01-03" },
+  { "_id": 4, "item": "apple", "price": 1.5, "quantity": 6, "date": "2023-01-04" },
+  { "_id": 5, "item": "banana", "price": 1.0, "quantity": 7, "date": "2023-01-05" } ]

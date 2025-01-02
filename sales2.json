@@ -1,0 +1,4 @@
+[
+  { "_id": 1, "item": "apple", "variations": ["red", "green"] },
+  { "_id": 2, "item": "banana", "variations": ["yellow"] }
+]
